@@ -1,0 +1,32 @@
+div{
+    text-align: center;
+    background-color: rgb(131, 104, 104);
+    color: rgb(252, 252, 252);
+    font-size: medium;
+     margin: auto;
+    
+}
+
+label{
+    background-color:rgb(65, 31, 31);
+    border: 1px solid;
+    margin: 2px;
+    
+}
+input{
+    text-align: center;
+}
+button{
+    background-color: rgb(33, 197, 33);
+    border: 1px solid rgb(17, 114, 17);
+}
+h1{
+    color: black;
+}
+.hr{
+    width: 50%;
+    border-width: 4px;
+    border-style:outset;
+    color: rgb(0, 0, 0);
+  
+}
